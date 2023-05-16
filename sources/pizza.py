@@ -3,10 +3,12 @@ RECIPES = {
     'marinara': {
         'ingredients': {'garlic': 2, 'basil': 3},
         'price': 9,
+        'sauce': 'cream'
     },
     'romana': {
         'ingredients': {'ham': 4, 'olive': 5, 'onion': 2, 'basil': 2},
         'price': 12,
+        'sauce': 'cream'
     },
     'original': {
         'ingredients': {'garlic': 5, 'pepper': 4, 'parmesan': 2},
@@ -21,6 +23,7 @@ RECIPES = {
     'mediterranea': {
         'ingredients': {'mozzarella': 3, 'pepper': 4, 'onion': 3},
         'price': 11,
+        'sauce': 'cream'
     },
     'margherita': {
         'ingredients': {'mozzarella': 2, 'oregano': 4},
@@ -45,6 +48,7 @@ RECIPES = {
     'romana': {
         'ingredients': {'ham': 4, 'olive': 3, 'onion': 2, 'basil': 2},
         'price': 12,
+        'sauce': 'cream'
     },
     'original': {
         'ingredients': {'garlic': 5, 'pepper': 4, 'parmesan': 2},
@@ -63,5 +67,6 @@ RECIPES = {
     'veggie': {
         'ingredients': {'mozzarella': 4, 'pepper': 2, 'mushroom': 3},
         'price': 10,
+        'sauce': 'cream'
     },
 }
